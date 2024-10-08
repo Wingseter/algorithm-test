@@ -18,3 +18,4 @@ li = [list(k) for k in reversed(tuple(zip(*k)))]
 #                           2. [2, 5]
 #                           3. [1, 4]
 print(li)
+
