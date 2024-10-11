@@ -13,6 +13,7 @@ print(arr_180)
 arr_270 = [x[::-1] for x in list(map(list, zip(*arr[::-1])))[::-1]]
 print(arr_270)
 
+
 ## 인덱싱
 arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 n = 3
