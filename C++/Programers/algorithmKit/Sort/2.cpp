@@ -14,6 +14,7 @@ string solution(vector<int> numbers) {
         str_num.push_back(to_string(number));
     }
     
+    // 이 정렬 방식을 기억하자 람다를 이용한 방법이다.
     sort(str_num.begin(), str_num.end(), [](const string &a, const string &b) {
         return a + b > b + a;
     });
