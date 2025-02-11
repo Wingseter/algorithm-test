@@ -1,3 +1,4 @@
+// 0 과 마지막에서 각각 한쪽만 구해야 했다. 아니면 오류가 발생한다.
 #include <string>
 #include <vector>
 #include <iostream>
