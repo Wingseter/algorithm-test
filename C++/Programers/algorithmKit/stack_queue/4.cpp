@@ -1,3 +1,4 @@
+// priority queue를 이용해야 했다. 아닐 경우 타임 오버가 났다.
 #include <string>
 #include <vector>
 #include <queue>
