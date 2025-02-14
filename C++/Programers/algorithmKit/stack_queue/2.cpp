@@ -1,3 +1,4 @@
+// 미리 필요한 숫자를 구할 수 있었다. 이게 훨씬 편했다.
 #include <string>
 #include <vector>
 #include <queue>
