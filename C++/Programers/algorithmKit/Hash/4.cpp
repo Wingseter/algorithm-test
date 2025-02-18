@@ -1,3 +1,4 @@
+// 결국 모든 경우의 수는 각각의 경우의 수를 곱한 것과 같다.
 #include <string>
 #include <vector>
 #include <iostream>
